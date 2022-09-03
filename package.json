@@ -1,0 +1,23 @@
+{
+    "name": "advanced-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GipsonRahul/Advanced-JS.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GipsonRahul/Advanced-JS/issues"
+    },
+    "homepage": "https://github.com/GipsonRahul/Advanced-JS#readme",
+    "dependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
